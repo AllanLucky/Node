@@ -16,5 +16,5 @@ const vendorvalidate =  Joi.object({
 module.exports ={
 
     authSchema,
-    ve
+    vendorvalidate
 }
